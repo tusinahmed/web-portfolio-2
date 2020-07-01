@@ -1,0 +1,145 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    
+
+  
+      
+}
+
+section{
+    
+    height: 700px;
+    
+}
+
+
+
+.top{
+    
+    background-image: url(image/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;   
+
+}
+
+.hello-part{
+    
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+    
+}
+
+.hello-part img{
+    width: 100%;
+}
+
+.hello-text{
+    
+    margin-top: 40%;
+    margin-left: 20%;
+}
+
+.high-lite{
+    color: #ec4c7a;
+    font-size: 40px;
+}
+
+.hire{
+    background-color: #ec4c7a;
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 10px;
+}
+
+.Biography{
+    background-image: url(image/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;   
+}
+
+.bio-text{
+    margin-top: 45%;
+
+}
+
+.bio-image{
+    
+    
+}
+
+.work{
+    background-image: url(image/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+
+}
+
+.work-text{
+    margin-top: 5%;
+    text-align: center;
+    font-size: 45px;
+}
+
+.work-image{
+    width: 100%;
+    height: 200px;
+    margin-top: 10%;
+
+}
+
+.images{
+    width: 27%;
+   
+    
+    padding: 2%;
+}
+
+
+.client{
+    background-image: url(image/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;   
+
+}
+
+.text-client{
+    text-align: center;
+    margin-top: 10%;
+      
+
+}
+
+.message{
+    background-color: #ec4c7a;
+    display: inline-block;
+    padding: 50px 60px;
+    width: 30%;
+    border-radius: 15px;
+    
+    
+    
+}
+
+.mail{
+    font-size: 20px;
+}
+
+.what{
+    font-size: 40px;
+}
+
+.footer{
+    text-align: center;
+    color: gray;
+    
+}
+
+
+
+
+
+
